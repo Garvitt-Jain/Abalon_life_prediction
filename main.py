@@ -20,7 +20,7 @@ from sklearn.preprocessing import PolynomialFeatures
 from sklearn.mixture import GaussianMixture
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import accuracy_score
-
+# This is for prediction of cracks in steel plates using gaussian mixture model,Code for abalone is below 
 # Question 1
 # Reading the csv file
 #reading given csv life   
